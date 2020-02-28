@@ -63,5 +63,7 @@ body {
 }
 img{
     width:300px;
+    padding:10px;
+    border:white 5px solid;
     }
     
